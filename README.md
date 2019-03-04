@@ -5,7 +5,7 @@ S9 Volt Rocket Ship
 
 
 
-This is made for the 13.5th and 14th S9.
+This is made for the 13.5th and 14th S9/i/j/etc.
 
 9v
 
